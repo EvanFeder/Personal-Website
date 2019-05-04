@@ -161,3 +161,20 @@ footer {
 html {
     overflow-y: scroll;
 }
+
+.spin {
+	margin-left: auto;
+    margin-right: auto; 
+    display: block;
+  	border-radius: 50%;
+  	animation: spin 5s linear infinite;
+    animation-play-state: paused; 
+}
+
+.spin:hover {
+  animation-play-state: running;
+}
+
+@keyframes spin {
+    100% {transform: rotate(3turn); }
+}
