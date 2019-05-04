@@ -178,3 +178,24 @@ html {
 @keyframes spin {
     100% {transform: rotate(3turn); }
 }
+
+.parallax { 
+    /* The image used */
+    background-image: url("images/cmu.jpg");
+  
+    /* Set a specific height */
+    height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+}
