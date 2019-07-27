@@ -24,9 +24,8 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                  <h2>Email Me At:</h2>
                   <p className="address">
-					<span>{phone}</span><br />
                     <span>{email}</span>
 				  </p>
                </div>
