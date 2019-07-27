@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Evan Feder",
-    "occupation":"(Your Occupation Here)",
-    "description":"",
+    "occupation":"Student",
+    "description":"Site development in progress! Stay tuned for more.",
     "image":"headshot.png",
     "bio":"Hey! I'm a student at Carnegie Mellon University, studying Information Systems, Statistics, and Machine Learning. I'm interested in exploring the world of software engineering and data science with applications across finance, tech, and a variety of industries. I'm also the Student Body President of Carnegie Mellon, working to make student voices heard on campus through student government initiatives.",
     "contactmessage":"Contact me!",
@@ -28,33 +28,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Carnegie Mellon University",
         "degree":"Bachelor of Science in Information Systems, additional major in Statistics and Machine Learning",
         "graduated":"May 2021",
         "description":""
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Optum Technology",
+        "title":"Software Engingeering Intern",
+        "years":"June 2019 - August 2019",
+        "description":""
       },
       {
         "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Data Science Intern",
+        "years":"May 2018 - August 2018",
+        "description":""
       }
     ],
     "skills":[
