@@ -8,7 +8,7 @@
     "contactmessage":"Section in development.",
     "email": "evanmfeder@gmail.com",
     "website": "http://www.evanfeder.com",
-    "resumedownload":"http://evanfeder.com",
+    "resumedownload":"EvanFederResume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -39,16 +39,16 @@
     ],
     "work":[
       {
-        "company":"Optum Technology",
+        "company":"Optum Technology (UnitedHealth Group)",
         "title":"Software Engingeering Intern",
         "years":"June 2019 - August 2019",
-        "description":""
+        "description":"Enhanced full stack web application for medical fraud detection written in Javascript using React, Node.js, and Express with an Elasticsearch database and an end-to-end Cucumber testing suite. Saved fraud investigators several hours per week of work after pushing enhancements into production."
       },
       {
         "company":"Zenabi Data",
         "title":"Data Science Intern",
         "years":"May 2018 - August 2018",
-        "description":""
+        "description":"Developed and implemented pipeline using Python and SQL to collect, compile, clean, and feature-engineer 100,000+ lines of training data. Analyzed football play formation data and presented findings to the Miami Dolphins' head coach, which was then used in choosing Dolphins' plays during the 2018 NFL season."
       }
     ],
     "skills":[
