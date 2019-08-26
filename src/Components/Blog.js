@@ -1,17 +1,17 @@
 import React, { Component } from 'react';
 
-class Contact extends Component {
+class Blog extends Component {
   render() {
 
     if(this.props.data){
       var name = this.props.data.name;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+      var message = this.props.data.blogmessage;
     }
 
     return (
-      <section id="contact">
+      <section id="blog">
 
          <div className="row section-head">
 
@@ -52,4 +52,4 @@ class Contact extends Component {
   }
 }
 
-export default Contact;
+export default Blog;

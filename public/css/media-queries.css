@@ -54,7 +54,7 @@
       height: 114px;
       margin-left: 12px;
    }
-   #about .contact-details { width: 50%; }
+   #about .blog-details { width: 50%; }
    #about .download { width: 50%; }
 
    /* Resume Section
@@ -80,14 +80,14 @@
       line-height: 66px;
    }
 
-   /* Contact Section
+   /* Blog Section
    ------------------------------------------------------------------- */
-   #contact .section-head { margin-bottom: 30px; }
-   #contact .header-col h1:before {
+   #blog .section-head { margin-bottom: 30px; }
+   #blog .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
-   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+   #blog .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
 
 }
@@ -282,33 +282,33 @@
    }
 
 
-   /* contact Section
+   /* blog Section
    ----------------------------------------------------------------------- */
-   #contact { padding-bottom: 66px; }
-   #contact .section-head { margin-bottom: 12px; }
-   #contact .section-head h1 {
+   #blog { padding-bottom: 66px; }
+   #blog .section-head { margin-bottom: 12px; }
+   #blog .section-head h1 {
       font: 16px/24px 'opensans-bold', sans-serif;            
       text-align: center;   
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }  
-   #contact h1 span { display: block; }
-   #contact .header-col { padding-top: 0; }
-   #contact .header-col h1:before { content: none;	}
-   #contact .section-head p.lead { text-align: center;}
+   #blog h1 span { display: block; }
+   #blog .header-col { padding-top: 0; }
+   #blog .header-col h1:before { content: none;	}
+   #blog .section-head p.lead { text-align: center;}
 
    /* form */
-   #contact label {
+   #blog label {
       float: none;
       width: 100%;
    }
-   #contact input,
-   #contact textarea,
-   #contact select {
+   #blog input,
+   #blog textarea,
+   #blog select {
      	margin-bottom: 6px;    	
       width: 100%;
    }
-   #contact button.submit { margin: 30px 0 24px 0; }
+   #blog button.submit { margin: 30px 0 24px 0; }
    #message-warning, #message-success {
       width: 100%;
       margin-left: 0;

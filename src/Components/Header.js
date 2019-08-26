@@ -25,15 +25,15 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#about">About</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
-            <li><a className="smoothscroll" href="#stugov">Student Government</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact Me</a></li>
+            {/* <li><a className="smoothscroll" href="#stugov">Student Government</a></li> */}
+            <li><a className="smoothscroll" href="#blog">Blog</a></li>
          </ul>
 
       </nav>
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline">{name}</h1>
             <h3>{description}</h3>
             <hr />
             <ul className="social">
