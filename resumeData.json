@@ -2,19 +2,14 @@
   "main": {
     "name":"Evan Feder",
     "occupation":"Student",
-    "description":"Site development in progress! Stay tuned for more.",
+    "description":"Hey! I'm a student at Carnegie Mellon University, studying Information Systems, Statistics, and Machine Learning. I'm interested in exploring the world of software engineering and data science with applications across finance, tech, and a variety of industries. I'm also the Student Body President of Carnegie Mellon, working to make student voices heard on campus through student government initiatives.",
     "image":"headshot.png",
-    "bio":"Hey! I'm a student at Carnegie Mellon University, studying Information Systems, Statistics, and Machine Learning. I'm interested in exploring the world of software engineering and data science with applications across finance, tech, and a variety of industries. I'm also the Student Body President of Carnegie Mellon, working to make student voices heard on campus through student government initiatives.",
-    "contactmessage":"Section in development.",
+    "bio":"",
+    "blogmessage":"Blog coming soon!",
     "email": "evanmfeder@gmail.com",
     "website": "http://www.evanfeder.com",
     "resumedownload":"EvanFederResume.pdf",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/evanmarcfeder/",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/evanfeder/",
@@ -49,12 +44,22 @@
         "title":"Data Science Intern",
         "years":"May 2018 - August 2018",
         "description":"Developed and implemented pipeline using Python and SQL to collect, compile, clean, and feature-engineer 100,000+ lines of training data. Analyzed football play formation data and presented findings to the Miami Dolphins' head coach, which was then used in choosing Dolphins' plays during the 2018 NFL season."
+      },
+      {
+        "company":"Municipal Market Analytics",
+        "title":"Summer Analyst",
+        "years":"May 2017 - August 2017",
+        "description":"Collaborated on a team project to determine the effect of New York’s Excelsior Scholarship program on the financing of small, private colleges which was published in the firm’s Weekly Outlook. Analyzed the Electronic Municipal Market Access database, compiling three years of municipal bond default data for use in firm’s investment research."
+      },
+      {
+        "company":"Top Hat Tutors",
+        "title":"Vice President",
+        "years":"May 2016 - May 2017",
+        "description":"Managed student-run tutoring organization with more than 40 tutors and 150 clients. Grew revenues by over 50% to more than $80,000 annually. Personally tutored middle and high school students for over 300 hours in math, physics, chemistry, SAT/ACT preparation, and other subjects."
       }
     ],
     "skills":[
-      {
-          "name": "Coming soon"
-      }
+
     ]
   },
   "portfolio":{
