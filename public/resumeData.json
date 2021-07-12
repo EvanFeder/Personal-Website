@@ -2,7 +2,7 @@
   "main": {
     "name":"Evan Feder",
     "occupation":"Student",
-    "description":"Hey! I'm a student at Carnegie Mellon University, studying Information Systems, Statistics, and Machine Learning. I'm interested in exploring the world of software engineering and data science with applications across finance, tech, and a variety of industries. I'm also the Student Body President of Carnegie Mellon, working to make student voices heard on campus through student government initiatives.",
+    "description":"Hey! I'm a Master's student at Carnegie Mellon University, studying Machine Learning. I am interested in exploring how companies apply technology to their business problems, especially with a focus on applications of artificial intelligence and machine learning, and plan to pursue a career in software engineering or data science.",
     "image":"headshot.png",
     "bio":"",
     "blogmessage":"Blog coming soon!",
@@ -26,6 +26,12 @@
     "skillmessage":"",
     "education":[
       {
+        "school":"Carnegie Mellon University, School of Computer Science",
+        "degree":"Master of Science in Machine Learning",
+        "graduated":"December 2021",
+        "description":""
+      },
+      {
         "school":"Carnegie Mellon University",
         "degree":"Bachelor of Science in Information Systems, additional major in Statistics and Machine Learning",
         "graduated":"May 2021",
@@ -33,6 +39,18 @@
       }
     ],
     "work":[
+      {
+        "company":"Microsoft",
+        "title":"Software Engingeer Intern",
+        "years":"June 2021 - August 2021",
+        "description":""
+      },
+      {
+        "company":"Microsoft",
+        "title":"Software Engingeer Intern",
+        "years":"May 2020 - August 2020",
+        "description":""
+      },
       {
         "company":"Optum Technology (UnitedHealth Group)",
         "title":"Software Engingeering Intern",
@@ -69,10 +87,6 @@
   },
   "testimonials":{
     "testimonials":[
-      {
-        "text":"Check out CMU student government at https://www.cmu.edu/stugov/index.html. This section is a work in progress.",
-        "user":"Evan Feder"
-      }
     ]
   }
 }
